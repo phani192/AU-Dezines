@@ -1,0 +1,37 @@
+footer {
+    background-color: tomato;
+    color: white;
+    font-size: 16px;
+    font-family: italic;
+    font-weight: bold;
+    column-count: 3;
+    padding: 25px 0;
+
+}
+
+footer div {
+    text-align: center;
+
+}
+
+.Fheading1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    
+    
+    
+}
+
+.Fheading2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+.Fheading3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+

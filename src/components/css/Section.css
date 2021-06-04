@@ -1,0 +1,15 @@
+@keyframes xyz{
+    0%{
+        margin-right: 100%;
+    }
+    100%{
+        margin-right: 0%;
+    }
+}
+
+h2{
+    animation-name: xyz;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+   
+}
